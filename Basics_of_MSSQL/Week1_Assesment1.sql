@@ -28,6 +28,6 @@ select MeterId, ReadingDateTime, EnergyConsumed from SmartMeterReadings  where (
 
  -- Quert 2 --
  select CustomerId, avg(EnergyConsumed) as AvgEnergyConsumed, max(EnergyConsumed) as MaxEnergyConsumed from 
-  SmartMeterReadings where InstalledDate >'2024-12-31' group by CustomerId;
+  SmartMeterReadings where InstalledDate between '2025-01-01' and '2025-12-31' group by CustomerId;
  
 
