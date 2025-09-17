@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\DLMS_Get_Request\obj\Debug\net8.0\DLMS_Get_Request.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\DLMS_Get_Request\obj\Debug\net8.0\DLMS_Get_Request.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\DLMS_Get_Request\obj\Debug\net8.0\DLMS_Get_Request.AssemblyInfo.cs
+C:\Users\user\source\repos\DLMS_Get_Request\obj\Debug\net8.0\DLMS_Get_Request.csproj.CoreCompileInputs.cache
