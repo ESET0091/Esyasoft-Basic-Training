@@ -2,6 +2,8 @@ import { useState } from "react";
 import EventComponent from "./components/EventComponent";
 import LoginComponent from "./components/LoginComponent";
 import LoginFormComponent from "./components/LoginFormComponent";
+import Loginform from "./components1/Loginform";
+import UseEffectComponent from "./components1/UseEffectComponent";
 function App() {
 
   // const  [counter, setCounter] = useState(0);
@@ -23,7 +25,9 @@ function App() {
 
     {/* <EventComponent/> */}
     {/* <LoginComponent/> */}
-    <LoginFormComponent/>
+    {/* <LoginFormComponent/> */}
+    {/* <Loginform/> */}
+    <UseEffectComponent/>
     </div>
   );
 }
