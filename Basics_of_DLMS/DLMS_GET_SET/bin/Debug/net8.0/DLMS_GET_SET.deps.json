@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DLMS_GET_SET/1.0.0": {
+        "runtime": {
+          "DLMS_GET_SET.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DLMS_GET_SET/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

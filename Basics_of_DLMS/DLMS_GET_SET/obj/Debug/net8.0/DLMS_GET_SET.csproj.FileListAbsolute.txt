@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.AssemblyInfo.cs
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.sourcelink.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\bin\Debug\net8.0\DLMS_GET_SET.exe
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\bin\Debug\net8.0\DLMS_GET_SET.deps.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\bin\Debug\net8.0\DLMS_GET_SET.runtimeconfig.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\bin\Debug\net8.0\DLMS_GET_SET.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\bin\Debug\net8.0\DLMS_GET_SET.pdb
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\refint\DLMS_GET_SET.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.pdb
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\DLMS_GET_SET.genruntimeconfig.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DLMS\DLMS_GET_SET\obj\Debug\net8.0\ref\DLMS_GET_SET.dll
