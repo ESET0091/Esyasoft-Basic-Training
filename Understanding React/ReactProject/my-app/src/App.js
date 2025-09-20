@@ -4,6 +4,8 @@ import LoginComponent from "./components/LoginComponent";
 import LoginFormComponent from "./components/LoginFormComponent";
 import Loginform from "./components1/Loginform";
 import UseEffectComponent from "./components1/UseEffectComponent";
+import UseRefComponent from "./components/UseRefComponent";
+import ParentComponent from "./components/ParentComponent"
 function App() {
 
   // const  [counter, setCounter] = useState(0);
@@ -27,7 +29,9 @@ function App() {
     {/* <LoginComponent/> */}
     {/* <LoginFormComponent/> */}
     {/* <Loginform/> */}
-    <UseEffectComponent/>
+    {/* <UseEffectComponent/> */}
+    {/* <UseRefComponent/> */}
+    <ParentComponent/>
     </div>
   );
 }
