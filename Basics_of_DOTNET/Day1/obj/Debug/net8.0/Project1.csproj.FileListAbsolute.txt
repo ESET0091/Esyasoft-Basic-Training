@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\bin\Debug\net8.0\Project1.exe
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\bin\Debug\net8.0\Project1.deps.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\bin\Debug\net8.0\Project1.runtimeconfig.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\bin\Debug\net8.0\Project1.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\bin\Debug\net8.0\Project1.pdb
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.AssemblyInfo.cs
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.sourcelink.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\refint\Project1.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.pdb
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\Project1.genruntimeconfig.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\Project1\obj\Debug\net8.0\ref\Project1.dll

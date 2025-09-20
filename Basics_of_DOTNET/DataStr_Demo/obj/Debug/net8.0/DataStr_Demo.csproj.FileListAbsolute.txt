@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\bin\Debug\net8.0\DataStr_Demo.exe
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\bin\Debug\net8.0\DataStr_Demo.deps.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\bin\Debug\net8.0\DataStr_Demo.runtimeconfig.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\bin\Debug\net8.0\DataStr_Demo.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\bin\Debug\net8.0\DataStr_Demo.pdb
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.AssemblyInfo.cs
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.sourcelink.json
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\refint\DataStr_Demo.dll
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.pdb
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\DataStr_Demo.genruntimeconfig.cache
+C:\Users\user\Desktop\Esyasoft-Basic-Training\Basics_of_DOTNET\DataStr_Demo\obj\Debug\net8.0\ref\DataStr_Demo.dll
