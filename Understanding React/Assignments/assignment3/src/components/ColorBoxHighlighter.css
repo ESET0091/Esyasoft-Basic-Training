@@ -1,0 +1,106 @@
+.color-box-highlighter {
+    text-align: center;
+    padding: 30px;
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.color-box-highlighter h2 {
+    color: #333;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.boxes-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 40px;
+    flex-wrap: wrap;
+}
+
+.color-box {
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    border: 2px solid #ccc;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.controls {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.highlight-btn,
+.reset-btn {
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.highlight-btn {
+    background-color: #4cd964;
+    color: white;
+}
+
+.highlight-btn:hover {
+    background-color: #3cb054;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(76, 217, 100, 0.3);
+}
+
+.reset-btn {
+    background-color: #ff3b30;
+    color: white;
+}
+
+.reset-btn:hover {
+    background-color: #d63229;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(255, 59, 48, 0.3);
+}
+
+.status {
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.status p {
+    margin: 0;
+    color: #333;
+}
+
+.instructions {
+    margin-top: 25px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+    font-size: 0.9rem;
+}
+
+.instructions p {
+    margin: 5px 0;
+    color: #666;
+}
