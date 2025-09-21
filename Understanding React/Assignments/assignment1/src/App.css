@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #6a11cb 0%, #2575fc 100%);
+  padding: 20px;
+}
+
+.counter-container {
+  background-color: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+  padding: 40px;
+  width: 350px;
+  max-width: 90%;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.counter-value {
+  font-size: 5rem;
+  font-weight: 700;
+  color: #6a11cb;
+  margin: 20px 0;
+  transition: all 0.3s ease;
+}
+
+.buttons-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.console-info {
+  margin-top: 40px;
+  padding: 15px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  font-size: 0.9rem;
+  color: #0066cc;
+}

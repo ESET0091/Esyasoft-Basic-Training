@@ -1,0 +1,33 @@
+.button {
+    padding: 12px 24px;
+    margin: 10px;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    min-width: 120px;
+}
+
+.increment-button {
+    background-color: #4cd964;
+    color: white;
+}
+
+.increment-button:hover {
+    background-color: #3cb054;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(76, 217, 100, 0.3);
+}
+
+.decrement-button {
+    background-color: #ff3b30;
+    color: white;
+}
+
+.decrement-button:hover {
+    background-color: #d63229;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(255, 59, 48, 0.3);
+}
