@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  width: 100%;
+}
+
+h1 {
+  color: #333;
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.toggle-button {
+  padding: 12px 25px;
+  margin-bottom: 30px;
+  background-color: #667eea;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.toggle-button:hover {
+  background-color: #5a6fd5;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(102, 126, 234, 0.3);
+}
+
+.explanation {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+  text-align: left;
+}
+
+.explanation h3 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.explanation ul {
+  margin-bottom: 15px;
+  padding-left: 20px;
+}
+
+.explanation li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+}
+
+.explanation p {
+  font-style: italic;
+  color: #667eea;
+}
