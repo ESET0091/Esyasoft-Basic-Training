@@ -1,0 +1,35 @@
+﻿@model List< Web_Api_Demo.Models.Products>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<h1> "Our Products"</h1>
+
+@if(Model.Any())
+{
+    <table>
+        <thead>
+            <tr>
+                <th>Product_ID</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model)
+            {
+                <tr>
+                    <td>@product.Id</td>
+                    <td>@product.name</td>
+                    <td>@product.price</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <p>No products are found.</p>
+}
+
